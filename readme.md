@@ -31,3 +31,20 @@ As backend will be used:
 
 <img src="images/flask4.png " alt="drawing" width="400"/>
 
+4. Step Three: On the screen shoud appear log from (terraform) deaployment new machine:
+
+Example:
+
+```
+[..]
+  wait_for_guest_net_routable:                          "" => "true"
+  wait_for_guest_net_timeout:                           "" => "0"\u001B[0m
+\u001B[0m\u001B[1mvsphere_virtual_machine.vm: Still creating... (10s elapsed)\u001B[0m\u001B[0m
+\u001B[0m\u001B[1mvsphere_virtual_machine.vm: Still creating... (20s elapsed)\u001B[0m\u001B[0m
+\u001B[0m\u001B[1mvsphere_virtual_machine.vm: Still creating... (30s elapsed)\u001B[0m\u001B[0m
+\u001B[0m\u001B[1mvsphere_virtual_machine.vm: Still creating... (40s elapsed)\u001B[0m\u001B[0m
+\u001B[0m\u001B[1mvsphere_virtual_machine.vm: Creation complete after 46s (ID: 4215f55f-c0a8-1d80-9eb0-575569d83229)\u001B[0m\u001B[0m
+\u001B[0m\u001B[1m\u001B[32m
+Apply complete! Resources: 1 added, 0 changed, 0 destroyed
+```
+
