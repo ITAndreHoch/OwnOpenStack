@@ -29,5 +29,5 @@ As backend will be used:
 
 3. The site should contain a list of available items to choose from - for example, all possible networks
 
-<img src="images/flask3b.png " alt="drawing" width="400"/>
+<img src="images/flask4.png " alt="drawing" width="400"/>
 
