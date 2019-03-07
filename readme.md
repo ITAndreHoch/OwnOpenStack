@@ -1,2 +1,7 @@
 
-# Own Open Stack - relay ob Python, FLASK, TerraForm , Bash
+# Own Open Stack - relay on Python, FLASK, TerraForm , Bash
+
+Project Goal
+#
+
+
