@@ -16,6 +16,7 @@ As backend will be used:
  
  
  Additional detailed info:
+ 
  https://github.com/ITAndreHoch/Terraform-stage-vmware
  https://github.com/ITAndreHoch/Docs-Flask
  
