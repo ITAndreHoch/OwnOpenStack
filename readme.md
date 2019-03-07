@@ -20,4 +20,4 @@ As backend will be used:
 **Final appearance and operation:**
 
 
-![Alt](images/flask2.png)
+<img src="images/flask1.png " alt="drawing" width="600"/>
