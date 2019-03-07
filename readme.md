@@ -15,6 +15,12 @@ As backend will be used:
  - Bash
  
  
+ Additional detailed info:
+ https://github.com/ITAndreHoch/Terraform-stage-vmware
+ https://github.com/ITAndreHoch/Docs-Flask
+ 
+ 
+ 
  #
 
 **Final appearance and operation:**
