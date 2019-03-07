@@ -3,7 +3,7 @@
 
 **Project Goal:**
 
-The goal of the project is to create a website with the help of which users can create virtual machines on datacenter in an easy and accessible way (in that case - it will be VMWARE).
+The goal of the project is to create a website with the help of which users can create virtual machines on datacenter in an easy and accessible way on DataCenter (in that case - it will be VMWARE).
 
 As forendend will be used:
  - Flask
@@ -13,6 +13,8 @@ As forendend will be used:
 As backend will be used:
  - Terraform
  - Bash
+ 
+ 
+ #
 
-
-
+**Final appearance and operation:**
