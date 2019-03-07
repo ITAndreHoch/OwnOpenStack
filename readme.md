@@ -18,3 +18,6 @@ As backend will be used:
  #
 
 **Final appearance and operation:**
+
+
+![Alt](images/flask2.png)
