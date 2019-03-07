@@ -19,5 +19,11 @@ As backend will be used:
 
 **Final appearance and operation:**
 
+1. Step one: Page - Authorisation (Only SSL)
 
-<img src="images/flask1.png " alt="drawing" width="600"/>
+<img src="images/flask1.png " alt="drawing" width="400"/>
+
+2. Step two: Page - Input data
+
+<img src="images/flask2.png " alt="drawing" width="400"/>
+
