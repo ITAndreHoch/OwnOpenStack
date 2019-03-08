@@ -7,6 +7,7 @@ provider "vsphere" {
   allow_unverified_ssl = true
 }
 
+
 data "vsphere_datacenter" dc {
   name = "DC1"
 }
