@@ -26,3 +26,5 @@ sed -i "s/_MEM/${varmem}/g" build.tf
 terraform init
 terraform plan
 terraform apply -auto-approve
+
+
